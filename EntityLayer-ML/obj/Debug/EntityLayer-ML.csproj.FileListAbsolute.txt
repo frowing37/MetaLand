@@ -1,0 +1,6 @@
+C:\Users\Pc\source\repos\EntityLayer-ML\bin\Debug\EntityLayer-ML.dll
+C:\Users\Pc\source\repos\EntityLayer-ML\bin\Debug\EntityLayer-ML.pdb
+C:\Users\Pc\source\repos\EntityLayer-ML\obj\Debug\EntityLayer-ML.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\EntityLayer-ML\obj\Debug\EntityLayer-ML.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\EntityLayer-ML\obj\Debug\EntityLayer-ML.dll
+C:\Users\Pc\source\repos\EntityLayer-ML\obj\Debug\EntityLayer-ML.pdb

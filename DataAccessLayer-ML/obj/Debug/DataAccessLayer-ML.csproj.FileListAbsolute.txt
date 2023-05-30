@@ -1,0 +1,11 @@
+C:\Users\Pc\source\repos\DataAccessLayer-ML\bin\Debug\DataAccessLayer-ML.dll
+C:\Users\Pc\source\repos\DataAccessLayer-ML\bin\Debug\DataAccessLayer-ML.pdb
+C:\Users\Pc\source\repos\DataAccessLayer-ML\bin\Debug\EntityLayer-ML.dll
+C:\Users\Pc\source\repos\DataAccessLayer-ML\bin\Debug\EntityLayer-ML.pdb
+C:\Users\Pc\source\repos\DataAccessLayer-ML\obj\Debug\DataAccessLayer-ML.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\DataAccessLayer-ML\obj\Debug\DataAccessLayer-ML.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\DataAccessLayer-ML\obj\Debug\DataAccessLayer-ML.csproj.CopyComplete
+C:\Users\Pc\source\repos\DataAccessLayer-ML\obj\Debug\DataAccessLayer-ML.dll
+C:\Users\Pc\source\repos\DataAccessLayer-ML\obj\Debug\DataAccessLayer-ML.pdb
+C:\Users\Pc\source\repos\DataAccessLayer-ML\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Pc\source\repos\DataAccessLayer-ML\bin\Debug\System.Data.SqlClient.xml
